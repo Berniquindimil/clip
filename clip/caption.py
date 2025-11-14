@@ -14,7 +14,7 @@ data = [
     ["food2.jpg", "food", "An hamburger with cheese, lettuce and tomate."],
     ["food3.jpg", "food", "A paella with shrimp and mussels."],
     ["food4.jpg", "food", "A pizza with black olives, meat and peppers."],
-    ["food5.jpg", "food", "A bawl with vegetables"],
+    ["food5.jpg", "food", "A bowl with vegetables"],
 
     # Home interior
     ["home1.jpg", "home_interior", "A modern living-room made of wood with black chairs"],
@@ -27,8 +27,8 @@ data = [
     ["wild1.jpg", "wild_animals", "A lion resting."],
     ["wild2.jpg", "wild_animals", "An elephant walking through the grass."],
     ["wild3.jpg", "wild_animals", "A sitting leopard."],
-    ["wild4.jpg", "wild_animals", "A colorful parrot sitting on a branch in the rainforest."],
-    ["wild5.jpg", "wild_animals", "A zebra eating."]
+    ["wild4.jpg", "wild_animals", "A zebra eating dry grass."],
+    ["wild5.jpg", "wild_animals", "Three giraffes walking through the jungle."]
 ]
 
 # Create the CSV file
